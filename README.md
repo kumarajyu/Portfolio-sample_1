@@ -1,24 +1,5 @@
-# README
+## "hello, world!"
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the first Portfolio
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+by [Seigo Miyaoka](kumarajyu0@gmail.com). Hello, world!
